@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![mona-whisper](https://user-images.githubusercontent.com/78387674/217340190-e0189090-d891-413c-8bd9-5caa1e888848.gif)
-https://badges.pufler.dev/visits/{joaquintalice}/{repo}
+https://badges.pufler.dev/visits/{joaquintalice}/{joaquintalice}
 
