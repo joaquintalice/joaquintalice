@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 <div style="background-image: url(https://user-images.githubusercontent.com/78387674/217348376-d3de1ef9-a0d1-475d-ae6a-bb958936ee5f.gif)">test</div>
 
-![giphy](https://user-images.githubusercontent.com/78387674/217348376-d3de1ef9-a0d1-475d-ae6a-bb958936ee5f.gif)
+<img src="https://user-images.githubusercontent.com/78387674/217348376-d3de1ef9-a0d1-475d-ae6a-bb958936ee5f.gif" width="500px">
