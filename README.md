@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![ViewCount](https://views.whatilearened.today/views/github/joaquintalice/views.svg)
 
-<div style="display:flex; justify-content:center;"> ![Visitor Count](https://profile-counter.glitch.me/joaquintalice/count.svg)</div>
+![Visitor Count](https://profile-counter.glitch.me/joaquintalice/count.svg display:flex; justify-content:center;)
 
 <div class="test">test</div>
 
