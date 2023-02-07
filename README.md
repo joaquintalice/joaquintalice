@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
-<div style="background-color="red"" width="500px">test</div>
+<div style="background-color=red width=500px">test</div>
 
