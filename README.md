@@ -1,5 +1,5 @@
 ### Hi there 👋
-<style>
+<div></div><style>
   .test {
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 ![mona-whisper](https://user-images.githubusercontent.com/78387674/217340190-e0189090-d891-413c-8bd9-5caa1e888848.gif)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![ViewCount](https://views.whatilearened.today/views/github/joaquintalice/views.svg)
 
 <div class="test">test</div>
 
