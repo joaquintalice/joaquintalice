@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
- ![giphy](https://user-images.githubusercontent.com/78387674/217346630-9dbe1228-8c2a-4e02-aa45-d54f144a1006.gif)
+<img src="https://user-images.githubusercontent.com/78387674/217346630-9dbe1228-8c2a-4e02-aa45-d54f144a1006.gif" width="200px" height="50px">
 
