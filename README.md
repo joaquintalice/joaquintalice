@@ -1,4 +1,11 @@
 ### Hi there 👋
+<style>
+  .test {
+    display: flex;
+    justify-content: center;
+  }
+</style>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
@@ -24,6 +31,6 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
-<div style="background-image: url="https://user-images.githubusercontent.com/78387674/217348376-d3de1ef9-a0d1-475d-ae6a-bb958936ee5f.gif"">test</div>
+<div class="test">test</div>
 
 <img src="https://user-images.githubusercontent.com/78387674/217348376-d3de1ef9-a0d1-475d-ae6a-bb958936ee5f.gif" width="1000px" height="250px">
