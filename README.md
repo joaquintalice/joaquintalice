@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 -->
 ![mona-whisper](https://user-images.githubusercontent.com/78387674/217340190-e0189090-d891-413c-8bd9-5caa1e888848.gif)
 
-![ViewCount](https://views.whatilearened.today/views/github/joaquintalice/views.svg)
-
 ![Visitor Count](https://profile-counter.glitch.me/joaquintalice/count.svg display:flex; justify-content:center;)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4rvS5fxq7oIUJLxPEMwayB?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <img src="https://user-images.githubusercontent.com/78387674/217348376-d3de1ef9-a0d1-475d-ae6a-bb958936ee5f.gif" width="1000px" height="250px">
