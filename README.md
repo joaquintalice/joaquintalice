@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> 
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> 
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> 
+|<img src="https://raw.githubusercontent.com/coderjojo/joaquintalice/master/img/vim.png" width=60> 
+|<img src="https://raw.githubusercontent.com/coderjojo/joaquintalice/master/img/github.svg" width=60> 
+|<img src="https://raw.githubusercontent.com/coderjojo/joaquintalice/master/img/intellij.png" width=60> 
 |
 
 <!--
