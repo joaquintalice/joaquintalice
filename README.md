@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![mona-whisper](https://user-images.githubusercontent.com/78387674/217340190-e0189090-d891-413c-8bd9-5caa1e888848.gif align: center;)
 
+<img src="https://user-images.githubusercontent.com/78387674/217340190-e0189090-d891-413c-8bd9-5caa1e888848.gif" align=:center;> 
 ![Visitor Count](https://profile-counter.glitch.me/joaquintalice/count.svg)
 
 
