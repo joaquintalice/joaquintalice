@@ -3,7 +3,7 @@
 |<a href="https://www.linkedin.com/in/joaqu%C3%ADn-talice-gra%C3%B1a-63765b23b/"><img src="https://user-images.githubusercontent.com/78387674/217712188-7edb9bcd-877d-4188-aa0f-62f8ddde329e.png" width=60></a> 
 |<a href=""><img src="https://user-images.githubusercontent.com/78387674/217712080-e498b1cd-0a1d-481b-9244-79ea4b71f20a.png" width=60></a> 
 
-<a href=""><img src="https://user-images.githubusercontent.com/78387674/217711921-77c47df2-95a4-4286-b198-b684269ad750.png" width=60></a>| 
+|<a href=""><img src="https://user-images.githubusercontent.com/78387674/217711921-77c47df2-95a4-4286-b198-b684269ad750.png" width=60></a>
 <p>Moly#8936</p>
 
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://user-images.githubusercontent.com/78387674/217340190-e0189090-d891-413c-8bd9-5caa1e888848.gif"> 
+|<img src="https://user-images.githubusercontent.com/78387674/217340190-e0189090-d891-413c-8bd9-5caa1e888848.gif"> 
 
 ![Visitor Count](https://profile-counter.glitch.me/joaquintalice/count.svg)
 
