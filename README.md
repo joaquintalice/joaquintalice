@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-|<img src="" width=60> 
+|<img src="https://user-images.githubusercontent.com/78387674/217711582-9fd318b1-7100-4b4e-8aec-b31d7d26c0b8.png" width=60> 
 |<img src="" width=60> 
 |<img src="" width=60> 
 |
+![1384072](https://user-images.githubusercontent.com/78387674/217711582-9fd318b1-7100-4b4e-8aec-b31d7d26c0b8.png)
 
 <!--
 **joaquintalice/joaquintalice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
