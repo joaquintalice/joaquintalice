@@ -51,14 +51,7 @@ Here are some ideas to get you started:
   <img alt="Your very best cyber grandma" src="https://thekenyonthrill.files.wordpress.com/2013/10/44-grandma-computer-e1381195849436.jpg" height="150px"/>
 </p>
 
-<a href="https://github.com/joaquintalice">
-  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=bloedboemmel&show_icons=true&theme=radical" height="200"/>
-  
-</a>
-
-<a href="https://github.com/bloedboemmel">
-  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=bloedboemmel&theme=radical"  height="200"/>
-</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaquintalice&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ## Stop stalking, start talking!
