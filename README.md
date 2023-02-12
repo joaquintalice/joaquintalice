@@ -15,8 +15,8 @@
 
 ## Contact
 <div align="center">
-|<img src="https://user-images.githubusercontent.com/78387674/217711921-77c47df2-95a4-4286-b198-b684269ad750.png" width=60><p>Moly#8936</p></a>
-|<img href="https://www.linkedin.com/in/joaqu%C3%ADn-talice-gra%C3%B1a-63765b23b" src="https://user-images.githubusercontent.com/78387674/218301943-4d338938-429e-4b3f-848c-1279ffa8a08c.png" width=60><p>Linkedin</p></a>
+<img src="https://user-images.githubusercontent.com/78387674/217711921-77c47df2-95a4-4286-b198-b684269ad750.png" width=60><p>Moly#8936</p></a>|
+<img href="https://www.linkedin.com/in/joaqu%C3%ADn-talice-gra%C3%B1a-63765b23b" src="https://user-images.githubusercontent.com/78387674/218301943-4d338938-429e-4b3f-848c-1279ffa8a08c.png" width=60><p>Linkedin</p></a>
 </div>
 
 
