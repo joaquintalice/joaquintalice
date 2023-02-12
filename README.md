@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/joaquintalice/count.svg)
 
 # Hey Bloedboemmel, what else do you do? 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jakob--jung/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADn-talice-gra%C3%B1a-63765b23b/)
 ## Spotify-Status 🎧
 <p float="left" >
   <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px"/>
