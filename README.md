@@ -10,13 +10,12 @@
 <img src="https://user-images.githubusercontent.com/78387674/218288222-f0b85b03-f45f-4698-89b7-221eebd58743.png" width=60>|
 <img src="https://user-images.githubusercontent.com/78387674/218288225-ed6b0f82-664e-4468-92cf-c2f52021ebe9.png" width=60>|
 <img src="https://user-images.githubusercontent.com/78387674/218288229-b9acc604-f982-4657-a9e2-76ff853d0636.png" width=60>|
-<img src="https://user-images.githubusercontent.com/78387674/218288232-1e7fd53f-5260-42d9-81db-ed3da47c54b0.png" width=60>|
 </div>
 
 ## Contact
 <div align="center">
 <img src="https://user-images.githubusercontent.com/78387674/217711921-77c47df2-95a4-4286-b198-b684269ad750.png" width=60>
-<div>Moly#8936</div>
+<p>Moly#8936</p>
 <a href="https://www.linkedin.com/in/joaqu%C3%ADn-talice-gra%C3%B1a-63765b23b"><img src="https://user-images.githubusercontent.com/78387674/218301943-4d338938-429e-4b3f-848c-1279ffa8a08c.png" width=60></a>
 </div>
 
