@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://user-images.githubusercontent.com/78387674/217340190-e0189090-d891-413c-8bd9-5caa1e888848.gif" width=60px> 
 </div>
-<div align="center">
+
 ![Visitor Count](https://profile-counter.glitch.me/joaquintalice/count.svg)
-</div>
+
 
 # Hey Joaquin, what else do you do? 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADn-talice-gra%C3%B1a-63765b23b/)
