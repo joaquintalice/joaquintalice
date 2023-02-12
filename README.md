@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/joaquintalice/count.svg)
 
-# Hey Bloedboemmel, what else do you do? 
+# Hey Joaquin, what else do you do? 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADn-talice-gra%C3%B1a-63765b23b/)
 ## Spotify-Status 🎧
 <p float="left" >
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <img alt="Your very best cyber grandma" src="https://thekenyonthrill.files.wordpress.com/2013/10/44-grandma-computer-e1381195849436.jpg" height="150px"/>
 </p>
 
-<a href="https://github.com/bloedboemmel">
+<a href="https://github.com/joaquintalice">
   <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=bloedboemmel&show_icons=true&theme=radical" height="200"/>
   
 </a>
@@ -59,10 +59,6 @@ Here are some ideas to get you started:
 ## Recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [calcom/docker](https://github.com/calcom/docker)
-2. 💬 Commented on [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020#issuecomment-1332115114) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
-3. 💬 Commented on [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020#issuecomment-1328755450) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
-4. 💬 Commented on [#1020](https://github.com/yaronzz/Tidal-Media-Downloader/pull/1020#issuecomment-1326882859) in [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
-5. 💪 Opened PR [#118](https://github.com/tamland/python-tidal/pull/118) in [tamland/python-tidal](https://github.com/tamland/python-tidal)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
