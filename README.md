@@ -54,15 +54,10 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaquintalice&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquintalice&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Stop stalking, start talking!
-## Recent activity
-<!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [calcom/docker](https://github.com/calcom/docker)
-<!--RECENT_ACTIVITY:end-->
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 12th, 2023, 1:20:33 AM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 
 ## Did you know that...
