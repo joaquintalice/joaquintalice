@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div align="center">
+  ### Hi there 👋
+</div>
 ### Path:
 <img src="https://user-images.githubusercontent.com/78387674/218288205-ad773408-321e-4ced-95d3-4819c94b6ab5.png" width=60>|
 <img src="https://user-images.githubusercontent.com/78387674/218288209-39dcf265-a25b-42c5-b767-b8a2c18f5ab3.png" width=60>|
