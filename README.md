@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Path:
+### Path:
 <div align="center">
 <img src="https://user-images.githubusercontent.com/78387674/218288205-ad773408-321e-4ced-95d3-4819c94b6ab5.png" width=60>|
 <img src="https://user-images.githubusercontent.com/78387674/218288209-39dcf265-a25b-42c5-b767-b8a2c18f5ab3.png" width=60>|
@@ -12,8 +12,11 @@ Path:
 <img src="https://user-images.githubusercontent.com/78387674/218288229-b9acc604-f982-4657-a9e2-76ff853d0636.png" width=60>|
 <img src="https://user-images.githubusercontent.com/78387674/218288232-1e7fd53f-5260-42d9-81db-ed3da47c54b0.png" width=60>|
 </div>
+
 ## Contact
+<div align="center">
 <a href=""><img src="https://user-images.githubusercontent.com/78387674/217711921-77c47df2-95a4-4286-b198-b684269ad750.png" width=60><p>Moly#8936</p></a>
+</div>
 
 ## About
 - 🌱 I’m currently learning JavaScript in https://www.theodinproject.com/
