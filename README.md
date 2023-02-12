@@ -14,10 +14,13 @@
 ## Contact
 <a href=""><img src="https://user-images.githubusercontent.com/78387674/217711921-77c47df2-95a4-4286-b198-b684269ad750.png" width=60><p>Moly#8936</p></a>
 
+## About
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently learning in https://www.theodinproject.com/
+- ⚡ Fun fact: Computer “bug” was inspired by a real insect‍
 
-
+In 1947, Grace Hopper, an admiral in the US Navy, was working with Mark II computer when it suddenly had an issue with its performance. To their surprise, they saw a moth stuck in its relay leading to Grace writing it to her journal as “the first case of bug being found”
 <!--
-**joaquintalice/joaquintalice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
