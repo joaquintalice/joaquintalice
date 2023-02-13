@@ -3,14 +3,14 @@
 
 ### Path:
 <div align="center">
-<img src="https://user-images.githubusercontent.com/78387674/218288205-ad773408-321e-4ced-95d3-4819c94b6ab5.png" width=60>|
-<img src="https://user-images.githubusercontent.com/78387674/218288209-39dcf265-a25b-42c5-b767-b8a2c18f5ab3.png" width=60>|
-<img src="https://user-images.githubusercontent.com/78387674/218288213-7e762c60-89d8-4445-8381-a819d6433583.png" width=60>|
-<img src="https://user-images.githubusercontent.com/78387674/218288215-7867b895-eaec-4a8f-b561-d98db6c78675.png" width=60>|
-<img src="https://user-images.githubusercontent.com/78387674/218288220-ced40ff3-1659-4943-ba91-94fa9c2dc2fc.png" width=60>|
-<img src="https://user-images.githubusercontent.com/78387674/218288222-f0b85b03-f45f-4698-89b7-221eebd58743.png" width=60>|
-<img src="https://user-images.githubusercontent.com/78387674/218288225-ed6b0f82-664e-4468-92cf-c2f52021ebe9.png" width=60>|
-<img src="https://user-images.githubusercontent.com/78387674/218288229-b9acc604-f982-4657-a9e2-76ff853d0636.png" width=60>|
+<img src="https://user-images.githubusercontent.com/78387674/218288205-ad773408-321e-4ced-95d3-4819c94b6ab5.png" width=60>
+<img src="https://user-images.githubusercontent.com/78387674/218288209-39dcf265-a25b-42c5-b767-b8a2c18f5ab3.png" width=60>
+<img src="https://user-images.githubusercontent.com/78387674/218288213-7e762c60-89d8-4445-8381-a819d6433583.png" width=60>
+<img src="https://user-images.githubusercontent.com/78387674/218288215-7867b895-eaec-4a8f-b561-d98db6c78675.png" width=60>
+<img src="https://user-images.githubusercontent.com/78387674/218288220-ced40ff3-1659-4943-ba91-94fa9c2dc2fc.png" width=60>
+<img src="https://user-images.githubusercontent.com/78387674/218288222-f0b85b03-f45f-4698-89b7-221eebd58743.png" width=60>
+<img src="https://user-images.githubusercontent.com/78387674/218288225-ed6b0f82-664e-4468-92cf-c2f52021ebe9.png" width=60>
+<img src="https://user-images.githubusercontent.com/78387674/218288229-b9acc604-f982-4657-a9e2-76ff853d0636.png" width=60>
 </div>
 
 ## Contact
