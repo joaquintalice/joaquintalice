@@ -1,3 +1,4 @@
+![computer](https://user-images.githubusercontent.com/78387674/218350184-36fbf0c9-7278-4a3d-8f4d-7a2fb69d4e8b.gif)
 ### Hi there 👋
 
 ### Path:
