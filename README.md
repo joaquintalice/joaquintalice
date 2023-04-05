@@ -46,20 +46,9 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/joaquintalice/count.svg)
 
-## Spotify-Status 🎧
-<p float="left" >
-  <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px"/>
-  <img alt="Your very best cyber grandma" src="https://thekenyonthrill.files.wordpress.com/2013/10/44-grandma-computer-e1381195849436.jpg" height="150px"/>
-</p>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaquintalice&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquintalice&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-# Recent Activity :zap:
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 
 
