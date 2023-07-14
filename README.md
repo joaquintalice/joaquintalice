@@ -10,7 +10,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width=60>
   <img src="https://angular.io/assets/images/logos/angular/angular.png" width=60>
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" width=60>
-  <img src="https://api.nuget.org/v3-flatcontainer/efcore.bulkextensions/6.0.5/icon" width=60>
+  <img src="https://miro.medium.com/v2/resize:fit:800/1*3kqmR2q4TFsdFX71DGbQZQ.png" width=60>
   <img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" width=60>
 </div>
 
