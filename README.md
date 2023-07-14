@@ -8,13 +8,11 @@
 
 ## Stack
 
-<div align="center">
-  <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts, postman, git, github, js, html, css, dotnet, cs, bootstrap, angular />
+    <img src="https://skillicons.dev/icons?i=ts,postman,git,github,js,html,css,dotnet,cs,bootstrap,angular" />
   </a>
 </p>
-</div>
 
 
 <!--
