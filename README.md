@@ -14,9 +14,9 @@
   </a>
 </p>
 
-
+<div align="center">
 ![Visitor Count](https://profile-counter.glitch.me/joaquintalice/count.svg)
-
+</div>
 ## Did you know that...
 ... 
 <i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?❞</i>
