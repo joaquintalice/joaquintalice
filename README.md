@@ -19,6 +19,7 @@
 ## Did you know that...
 <div align="center">
 ... 
-<i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?❞</i>
+<i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in.
+  Interesting?❞</i>
 </div>
 
