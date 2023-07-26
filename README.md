@@ -10,16 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ts,nodejs,nestjs,prisma,mysql,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,ts,nodejs,nestjs,prisma,postgresql,docker,postman" />
   </a>
 </p>
-
-
-
-## Did you know that...
-<div align="center">
-... 
-<i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in.
-  Interesting?❞</i>
-</div>
 
