@@ -8,7 +8,6 @@
 </div>
 
 ## Stack
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,ts,nodejs,nestjs,prisma,postgresql,docker,postman,nextjs,jest" />
