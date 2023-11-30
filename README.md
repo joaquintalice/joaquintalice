@@ -13,4 +13,4 @@
     
 </p>
 <p>Currently learning:</p>
-<p align="center">  <img src="https://skillicons.dev/icons?i=cs,dotnet" /> </p>
+<p>  <img src="https://skillicons.dev/icons?i=cs,dotnet" /> </p>
