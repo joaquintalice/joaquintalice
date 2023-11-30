@@ -9,9 +9,8 @@
 
 ## Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ts,nodejs,nestjs,prisma,postgresql,docker,postman,nextjs,jest" /> <br/>
-    <p align="center">Currently learning:  <img src="https://skillicons.dev/icons?i=cs" /> </p>
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,github,ts,nodejs,nestjs,prisma,postgresql,docker,postman,nextjs,jest" /> 
+    
 </p>
-
+<p>Currently learning:</p>
+<p align="center">  <img src="https://skillicons.dev/icons?i=cs,dotnet" /> </p>
