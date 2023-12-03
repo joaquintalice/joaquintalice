@@ -10,7 +10,6 @@
 ## Stack
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,ts,nodejs,nestjs,prisma,postgresql,docker,postman,nextjs,jest" /> 
-    
 </p>
 <p>Currently learning:</p>
 <p>  <img src="https://skillicons.dev/icons?i=cs,dotnet" /> </p>
